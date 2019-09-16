@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: Ph.D., Operations Research and Information Engineering
-    institution: Stanford University
+    institution: Cornell University
     year: (in progress)
   - course: B.S., Mathematics
     institution: University of Guanajuato and Center for Research in Mathematics (Mexico)
@@ -42,15 +42,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=r1Jkj7MAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/RaulAstudillo06
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
