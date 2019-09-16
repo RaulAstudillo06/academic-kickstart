@@ -57,4 +57,11 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.  
+user_groups:
+- Researchers
+- Visitors
+---
+
 I am a fourth year Ph.D. student in the School of Operations Research and Information Engineering at Cornell University, where I am fortunate to be advised by Professor Peter Frazier. Prior to joining Cornell University, I completed the undergraduate program in Mathematics offered jointly by the University of Guanajuato and the Center for Research in Mathematics in Mexico. My current research focuses on the design of Bayesian optimization algorithms for supporting decision-making.
