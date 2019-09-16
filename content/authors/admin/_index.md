@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Raul Astudillo
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Cornell University
+  url: "https://www.cornell.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Bayesian optimization
+- Preference elicitation
+- Design of experiments
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: Ph.D., Operations Research and Information Engineering
     institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: (in progress)
+  - course: B.S., Mathematics
+    institution: University of Guanajuato and Center for Research in Mathematics (Mexico)
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -70,6 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a fourth year Ph.D. student in the School of Operations Research and Information Engineering at Cornell University, where I am fortunate to be advised by Professor Peter Frazier. Prior to joining Cornell University, I completed the undergraduate program in Mathematics offered jointly by the University of Guanajuato and the Center for Research in Mathematics in Mexico. My current research focuses on the design of Bayesian optimization algorithms for supporting decision-making.
