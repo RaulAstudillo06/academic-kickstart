@@ -23,6 +23,7 @@ bio:
 interests:
 - Bayesian Optimization
 - Preference Elicitation
+- Optimal Learning 
 - Design of Experiments
 
 education:
@@ -31,7 +32,7 @@ education:
     institution: Cornell University
     year: (in progress)
   - course: B.S., Mathematics
-    institution: University of Guanajuato and Center for Research in Mathematics (Mexico)
+    institution: University of Guanajuato & Center for Research in Mathematics (Mexico)
     year: 2016
 
 # Social/Academic Networking
@@ -64,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-I am a fourth year Ph.D. student in the School of Operations Research and Information Engineering at Cornell University, where I am fortunate to be advised by Professor Peter Frazier. Prior to joining Cornell University, I completed the undergraduate program in Mathematics offered jointly by the University of Guanajuato and the Center for Research in Mathematics in Mexico. My current research focuses on the design of Bayesian optimization algorithms for supporting decision-making.
+I am a fourth year Ph.D. student in the School of Operations Research and Information Engineering at Cornell University, where I am fortunate to be advised by Professor Peter Frazier. Prior to coming to Cornell, I completed the undergraduate program in Mathematics offered jointly by the University of Guanajuato and the Center for Research in Mathematics. My current research focuses on the design of Bayesian optimization algorithms for supporting decision-making.
