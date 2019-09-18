@@ -30,6 +30,7 @@ education:
   courses:
   - course: Ph.D., Operations Research and Information Engineering (in progress)
     institution: Cornell University
+    year: 
   - course: B.S., Mathematics
     institution: University of Guanajuato & Center for Research in Mathematics (Mexico)
     year: 2016
