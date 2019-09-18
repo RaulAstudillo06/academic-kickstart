@@ -28,9 +28,9 @@ interests:
 
 education:
   courses:
-  - course: Ph.D., Operations Research and Information Engineering (in progress)
+  - course: Ph.D., Operations Research and Information Engineering
     institution: Cornell University
-    year: 
+    year: 2021 (expected)
   - course: B.S., Mathematics
     institution: University of Guanajuato & Center for Research in Mathematics (Mexico)
     year: 2016
