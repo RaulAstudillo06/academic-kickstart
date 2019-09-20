@@ -1,12 +1,12 @@
 ---
-title: Example Talk
-event: Academic Theme Conference
-event_url: https://example.org
+title: Multi-Attribute Bayesian Optimization under Utility Uncertainty (contributed poster)
+event: NIPS workshop on Bayesian Optimization
+event_url: https://bayesopt.github.io/
 
-location: Source Themes HQ
+location: 
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: 
+  city: Long Beach
   region: CA
   postcode: '94305'
   country: United States
@@ -16,14 +16,14 @@ abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
+date: "2017-12-09T9:00:00Z"
+date_end: "2017-12-09T18:00:00Z"
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: []
+authors: ["Raul Astudillo", "Peter I Frazier"]
 tags: []
 
 # Is this a featured talk? (true/false)
