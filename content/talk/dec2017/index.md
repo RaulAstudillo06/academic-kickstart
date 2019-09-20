@@ -3,16 +3,31 @@ title: Multi-Attribute Bayesian Optimization under Utility Uncertainty (contribu
 event: NIPS workshop on Bayesian Optimization
 event_url: https://bayesopt.github.io/
 
-location: 
+location: Long Beach Convention & Entertainment Center
 address:
-  street: 
+  street: 300 E Ocean Blvd
   city: Long Beach
   region: CA
   postcode: '94305'
   country: United States
 
-summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: 
+abstract: "We consider multi-attribute Bayesian optimization, where each design in an optimization
+problem’s feasible space is associated with a vector of attributes that can
+be evaluated via a time-consuming computer code, and each vector of attributes
+is assigned a utility according to a decision-maker’s utility function. A standard
+Bayesian optimization approach could be applied if the utility function were known
+to us: we would place a Bayesian prior distribution over the composition of the
+objective function, which returns a design’s vector of attributes, and the utility function,
+which maps those attributes onto a utility. In contrast, we assume the utility
+function cannot be evaluated and is known implicitly only to the decision-maker.
+We propose a Bayesian optimization algorithm that chooses the designs to evaluate,
+such that the expected utility of the design chosen by the decision-maker, according
+to our algorithm’s estimate of the objective function, is large. In contrast with
+existing approaches for multi-attribute optimization that focus on estimating a
+Pareto frontier, our approach can take advantage of prior information about the
+decision-maker’s utility, obtained from past experiences with the decision-maker
+or from a utility elicitation process."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -30,14 +45,9 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  caption:
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -61,15 +71,3 @@ projects:
 # Enable math on this page?
 math: true
 ---
-
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
