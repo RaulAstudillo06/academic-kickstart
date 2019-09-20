@@ -1,6 +1,6 @@
 ---
 title: Multi-Attribute Bayesian Optimization under Utility Uncertainty (contributed poster)
-event: NIPS workshop on Bayesian Optimization
+event: NIPS workshop on Bayesian Optimization 2017
 event_url: https://bayesopt.github.io/
 
 location: Long Beach Convention & Entertainment Center
@@ -58,7 +58,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides:
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -66,7 +66,6 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- internal-project
 
 # Enable math on this page?
 math: true

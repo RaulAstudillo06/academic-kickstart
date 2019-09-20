@@ -1,9 +1,9 @@
 ---
 title: A Utility Uncertainty Approach to Multi-Attribute Bayesian Optimization
-event: INFORMS Annual Meeting
+event: INFORMS Annual Meeting 2018
 event_url: http://meetings2.informs.org/wordpress/phoenix2018/
 
-location: North Bldg 226A, Phoenix Convention Center
+location: North Bldg Room 226A, Phoenix Convention Center
 address:
   street: 100 N 3rd St, Phoenix, AZ 85004
   city: Phoenix
@@ -16,8 +16,8 @@ abstract: "We consider multi-attribute Bayesian optimization, where each feasibl
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-11-T15:20:00Z"
-date_end: "2018-11-09T15:35:00Z"
+date: "2018-11-07T15:20:00Z"
+date_end: "2018-07-09T15:35:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
