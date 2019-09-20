@@ -17,7 +17,7 @@ abstract: "We consider optimization of composite objective functions, i.e., of t
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2019-06-12T17:05:00Z"
-date_end: "2019-12-07T17:10:00Z"
+date_end: "2019-06-12T17:10:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).

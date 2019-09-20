@@ -16,8 +16,8 @@ abstract: "We propose a novel Bayesian optimization (BayesOpt) algorithm for cal
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-06-12T17:16:00Z"
-date_end: "2019-12-07T16:30:00Z"
+date: "2019-07-04T17:16:00Z"
+date_end: "2019-07-04T16:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
