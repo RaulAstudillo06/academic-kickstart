@@ -5,7 +5,7 @@ event_url: http://meetings2.informs.org/wordpress/phoenix2018/
 
 location: North Bldg Room 226A, Phoenix Convention Center
 address:
-  street: 100 N 3rd St, Phoenix, AZ 85004
+  street: 100 N 3rd St
   city: Phoenix
   region: AZ
   postcode: '85004'

@@ -1,7 +1,7 @@
 ---
 title: Bayesian Optimization of Composite Functions with Application to Computationally Expensive Inverse Problems
 event: Applied Inverse Problems Conference 2019
-event_url: https://icml.cc/Conferences/2019
+event_url:
 
 location: University of Grenoble Alpes
 address:
@@ -9,7 +9,7 @@ address:
   city: Grenoble
   region: 
   postcode: '38400'
-  country: United States
+  country: France
 
 summary: 
 abstract: "We propose a novel Bayesian optimization (BayesOpt) algorithm for calibrating black-box derivative-free expensive-to-evaluate computer models.  Our approach finds model parameters x that minimize f(x)=g(h(x)), where h(x) is the model’s vector-valued prediction and g(h(x)) is the sum of squared errors.  Standard BayesOpt models f directly.  By modeling h instead and leveraging knowledge of g, our approach outperforms standard BayesOpt by several orders magnitude on test problems."
