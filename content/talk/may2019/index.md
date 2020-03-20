@@ -3,7 +3,7 @@ title: Bayesian Optimization of Composite Functions
 event: 2nd Uber Science Symposium
 event_url: https://2ndubersciencesymposium.splashthat.com/
 
-location: Uber's headquarters
+location: Uber's Headquarters
 address:
   street: 555 Market St
   city: San Francisco
