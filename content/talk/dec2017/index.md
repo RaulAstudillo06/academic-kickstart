@@ -1,5 +1,5 @@
 ---
-title: Multi-Attribute Bayesian Optimization under Utility Uncertainty (contributed poster)
+title: Multi-Attribute Bayesian Optimization Under Utility Uncertainty (contributed poster)
 event: NIPS workshop on Bayesian Optimization 2017
 event_url: https://bayesopt.github.io/
 
@@ -38,7 +38,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: ["Raul Astudillo", "Peter I Frazier"]
+authors: ["Raul Astudillo"]
 tags: []
 
 # Is this a featured talk? (true/false)

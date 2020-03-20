@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: ["Raul Astudillo", "Peter I Frazier"]
+authors: ["Raul Astudillo"]
 tags: []
 
 # Is this a featured talk? (true/false)
