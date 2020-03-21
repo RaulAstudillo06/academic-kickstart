@@ -22,9 +22,10 @@ bio:
 
 interests:
 - Bayesian Optimization
-- Preference Elicitation
-- Optimal Learning 
+- Preference Learning
+- Simulation Optimization
 - Design of Experiments
+- Optimal Learning 
 
 education:
   courses:
