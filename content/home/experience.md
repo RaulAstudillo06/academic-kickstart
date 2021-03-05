@@ -19,6 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Visiting Researcher"
+  company = "Facebook"
+  company_url = "https://research.fb.com/"
+  location = "Menlo Park, CA"
+  date_start = "2020-06-21"
+  date_end = "2020-09-18"
+  description = """Developed novel Bayesian optimization algorithms for problems with unknown evaluation costs."""
+
+[[experience]]
+  title = "Research Intern"
+  company = "Facebook"
+  company_url = "https://research.fb.com/"
+  location = "Menlo Park, CA"
+  date_start = "2020-06-21"
+  date_end = "2020-09-18"
+  description = """Developed novel Bayesian optimization algorithms for problems with unknown evaluation costs."""
+
+[[experience]]
   title = "Research Intern"
   company = "ExxonMobil Upstream Research Company"
   company_url = "https://corporate.exxonmobil.com/en/"
