@@ -31,7 +31,7 @@ education:
   courses:
   - course: Ph.D., Operations Research and Information Engineering
     institution: Cornell University
-    year: 2021 (expected)
+    year: 2021 (Expected)
   - course: B.S., Mathematics
     institution: University of Guanajuato & Center for Research in Mathematics (Mexico)
     year: 2016
