@@ -5,10 +5,10 @@ name = "Raul"
 light = true
 
 # Primary
-primary = "#CF3D1E"
+primary = "#B31B1B"
 
 # Menu
-menu_primary = "#CF3D1E" # Material 500
+menu_primary = "#B31B1B" # Material 500
 menu_text = "#fff"
 menu_text_active = "#ffeb3b" # Material Complemantary 500
 menu_title = "#fff"
