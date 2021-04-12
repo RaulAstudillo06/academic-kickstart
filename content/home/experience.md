@@ -32,8 +32,8 @@ date_format = "Jan 2006"
   company = "Facebook"
   company_url = "https://research.fb.com/"
   location = "Menlo Park, CA"
-  date_start = "2020-06-21"
-  date_end = "2020-09-18"
+  date_start = "2020-10-12"
+  date_end = "2021-03-26"
   description = """Developed novel Bayesian optimization algorithms for problems with unknown evaluation costs."""
 
 [[experience]]
