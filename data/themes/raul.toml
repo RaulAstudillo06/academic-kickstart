@@ -10,7 +10,7 @@ primary = "#B31B1B"
 # Menu
 menu_primary = "#B31B1B" # Material 500
 menu_text = "#fff"
-menu_text_active = "#ffeb3b" # Material Complemantary 500
+menu_text_active = "#222222" # Material Complemantary 500
 menu_title = "#fff"
 
 # Home sections
