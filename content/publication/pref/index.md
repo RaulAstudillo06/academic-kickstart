@@ -2,7 +2,8 @@
 title: Mixed Integer Linear Programming under Preference Uncertainty
 date: '2021-12-03'
 authors:
-- Bhavik A, Astudillo, Raul Shah
+- Bhavik A Shah
+- Raul Astudillo
 - Peter I Frazier
 publication_types:
 - '2'
