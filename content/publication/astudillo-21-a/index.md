@@ -26,6 +26,6 @@ abstract: 'We consider Bayesian optimization of the output of a network of funct
   and real-world problems.'
 featured: false
 publication: '*Advances in Neural Information Processing Systems*'
-publishDate: '2021-10-21T22:31:04.576952Z'
+publishDate: '2021-10-21T22:34:17.453262Z'
 ---
 

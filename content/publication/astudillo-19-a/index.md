@@ -1,7 +1,7 @@
 ---
 title: Bayesian Optimization of Composite Functions
 date: '2019-06-01'
-publishDate: '2021-10-21T22:31:04.655301Z'
+publishDate: '2021-10-21T22:34:17.534409Z'
 authors:
 - Raul Astudillo
 - Peter I Frazier

@@ -17,6 +17,7 @@ abstract: We introduce mixed integer linear programming under preference uncerta
   that performs well according to her preferences.
 featured: false
 publication: '*Working Paper*'
-publishDate: '2021-10-21T22:31:04.523431Z'
+publishDate: '2021-10-21T22:34:17.401656Z'
+url_pdf: https://github.com/RaulAstudillo06/academic-kickstart/blob/master/papers/opt_pref_uncertainty.pdf
 ---
 

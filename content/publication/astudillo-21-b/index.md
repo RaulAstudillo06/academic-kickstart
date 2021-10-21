@@ -29,6 +29,6 @@ abstract: Bayesian optimization (BO) is a sample-efficient approach to optimizin
   outperforms existing BO methods in a variety of synthetic and realistic problems.
 featured: false
 publication: '*Advances in Neural Information Processing Systems*'
-publishDate: '2021-10-21T22:31:04.546078Z'
+publishDate: '2021-10-21T22:34:17.424721Z'
 ---
 
