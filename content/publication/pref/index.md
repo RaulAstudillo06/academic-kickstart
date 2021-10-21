@@ -1,6 +1,6 @@
 ---
 title: Mixed Integer Linear Programming under Preference Uncertainty
-date: '2021-12-01'
+date: '2021-12-03'
 authors:
 - Bhavik A, Astudillo, Raul Shah
 - Peter I Frazier
@@ -15,7 +15,7 @@ abstract: We introduce mixed integer linear programming under preference uncerta
   develop new optimization-based algorithms with theoretical guarantees that provide
   a menu of diverse solutions among which the decision maker is likely to find a solution
   that performs well according to her preferences.
-featured: false
+featured: true
 publication: '*Working Paper*'
 publishDate: '2021-10-21T22:34:17.401656Z'
 url_pdf: https://github.com/RaulAstudillo06/academic-kickstart/blob/master/papers/opt_pref_uncertainty.pdf
