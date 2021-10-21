@@ -1,7 +1,7 @@
 ---
 title: Bayesian Optimization of Risk Measures
-date: '2020-01-01'
-publishDate: '2021-10-21T22:22:08.022239Z'
+date: '2020-12-01'
+publishDate: '2021-10-21T22:31:04.601655Z'
 authors:
 - Sait Cakmak
 - Raul Astudillo

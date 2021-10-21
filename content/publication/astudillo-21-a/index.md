@@ -1,6 +1,6 @@
 ---
 title: Bayesian Optimization of Function Networks
-date: '2021-01-01'
+date: '2021-12-01'
 authors:
 - Raul Astudillo
 - Peter I Frazier
@@ -26,6 +26,6 @@ abstract: 'We consider Bayesian optimization of the output of a network of funct
   and real-world problems.'
 featured: false
 publication: '*Advances in Neural Information Processing Systems*'
-publishDate: '2021-10-21T22:22:07.965631Z'
+publishDate: '2021-10-21T22:31:04.576952Z'
 ---
 
