@@ -22,10 +22,11 @@ bio:
 
 interests:
 - Bayesian Optimization
-- Preference Learning
+- Preference Elicitation
 - Simulation Optimization
 - Adaptive Experimentation
-- Optimal Learning 
+- Optimal Learning
+- Bayesian Machine Learning 
 
 education:
   courses:
@@ -68,4 +69,6 @@ user_groups:
 
 I am a Ph.D. candidate in the [School of Operations Research and Information Engineering](https://www.orie.cornell.edu/orie) at [Cornell University](https://www.cornell.edu/), where I am fortunate to be advised by Professor [Peter Frazier](https://people.orie.cornell.edu/pfrazier/). Prior to coming to Cornell, I completed the undergraduate program in Mathematics offered jointly by the [University of Guanajuato](http://www.ugto.mx/en/) and the [Center for Research in Mathematics](https://www.cimat.mx/en).
 
-My current research focuses on the design and analysis of Bayesian optimization algorithms for problems with a nested structure, which arise in calibration of expensive simulators, multi-objective optimization with preference information, and risk-averse simulation optimization.
+My research interests lie at the intersection between operations research and machine learning, with an emphasis on Bayesian machine learning methods for sequential decision making. My dissertation work focused on the design and analysis of Bayesian optimization algorithms for problems exhibiting a nested structure. These algorithms have found application in a wide range of domains, such as risk-averse simulation optimization of COVID-19 testing policies, multi-objective portfolio optimization with user preferences, and reinforcement-learning-based robot control. 
+
+I am looking for postdoctoral positions for the next academic year. Please feel free to contact me if you think I would be a fit for your research group.
