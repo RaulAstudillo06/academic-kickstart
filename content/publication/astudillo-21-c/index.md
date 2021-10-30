@@ -1,6 +1,6 @@
 ---
 title: 'Thinking Inside the Box: A Tutorial on Grey-Box Bayesian Optimization'
-date: '2021-12-01'
+date: '2021-12-03'
 authors:
 - Raul Astudillo
 - Peter I Frazier
@@ -26,6 +26,7 @@ abstract: Bayesian optimization (BO) is a sample-efficient approach to optimizin
   outperforms existing BO methods in a variety of synthetic and realistic problems.
 featured: false
 publication: '*Proceedings of the 2021 Winter Simulation Conference*'
-publishDate: '2021-10-30T19:03:20.506155Z'
+publishDate: '2021-10-30T19:09:51.783898Z'
+url_pdf: https://people.orie.cornell.edu/pfrazier/pub/grey_box_tutorial.pdf
 ---
 
