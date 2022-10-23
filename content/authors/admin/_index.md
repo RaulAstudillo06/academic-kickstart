@@ -32,8 +32,8 @@ education:
   courses:
   - course: Ph.D., Operations Research and Information Engineering
     institution: Cornell University
-    year: May 2022 (Expected)
-  - course: B.S., Mathematics
+    year: 2022
+  - course: B.Sc., Mathematics
     institution: University of Guanajuato & Center for Research in Mathematics (Mexico)
     year: 2016
 
