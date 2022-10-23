@@ -14,8 +14,8 @@ superuser: true
 
 # Organizations/Affiliations
 organizations:
-- name: Cornell University
-  url: "https://www.cornell.edu/"
+- name: Caltech
+  url: "https://www.caltech.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -67,8 +67,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. candidate in the [School of Operations Research and Information Engineering](https://www.orie.cornell.edu/orie) at [Cornell University](https://www.cornell.edu/), where I am fortunate to be advised by Professor [Peter Frazier](https://people.orie.cornell.edu/pfrazier/). Before coming to Cornell, I completed the undergraduate program in Mathematics offered jointly by the [University of Guanajuato](http://www.ugto.mx/en/) and the [Center for Research in Mathematics](https://www.cimat.mx/en).
+I am a Postdoctoral Scholar in the [Computing + Mathematical Sciences Department](https://www.cms.caltech.edu/) at [Caltech](https://www.caltech.edu/), hosted by Professor [Yisong Yue](http://www.yisongyue.com/index.php). I recently obtained my Ph.D. in Operations Research and Information Engineering from Cornell University, where I worked under the supervision of Professor [Peter Frazier](https://people.orie.cornell.edu/pfrazier/). Before that, I completed the undergraduate program in Mathematics offered jointly by the [University of Guanajuato](http://www.ugto.mx/en/) and the [Center for Research in Mathematics](https://www.cimat.mx/en).
 
-My research interests lie at the intersection between operations research and machine learning, with an emphasis on Bayesian methods for efficient sequential decision making. My dissertation focused on the design and analysis of Bayesian optimization algorithms for problems exhibiting a nested structure. These algorithms have found application in risk-averse simulation optimization of COVID-19 testing policies, multi-objective portfolio optimization with user preferences, and reinforcement-learning-based robot control. 
-
-In Fall 2022, I will join the [Computing + Mathematical Sciences Department](https://www.cms.caltech.edu/) at [Caltech](https://www.caltech.edu/) as a postdoctoral researcher hosted by [Yisong Yue](http://www.yisongyue.com/index.php).
+My research interests lie at the intersection between operations research and machine learning, with an emphasis on Bayesian methods for efficient sequential data collection. Combining grounded decision-theoretic foundations with sophisticated machine learning models, my work aims to develop the next generation of tools for automated adaptive experimental design in complex experimentation pipelines arising in robotics, cellular agriculture, and many other scientific applications.
