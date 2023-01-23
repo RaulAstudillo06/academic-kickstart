@@ -58,7 +58,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "raul.astudillo@caltech.edu"
+email: "rastudil@caltech.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -69,4 +69,4 @@ user_groups:
 
 I am a Postdoctoral Scholar in the [Department of Computing and Mathematical Sciences](https://www.cms.caltech.edu/) at [Caltech](https://www.caltech.edu/), hosted by Professor [Yisong Yue](http://www.yisongyue.com/index.php). I recently obtained my Ph.D. in Operations Research and Information Engineering from [Cornell University](https://www.cornell.edu/), where I was fortunate to work under the supervision of Professor [Peter Frazier](https://people.orie.cornell.edu/pfrazier/). Before that, I completed the undergraduate program in Mathematics offered jointly by the [University of Guanajuato](http://www.ugto.mx/en/) and the [Center for Research in Mathematics](https://www.cimat.mx/en). In 2021, I was a Visiting Researcher at [Meta](https://research.facebook.com/) within the Adaptive Experimentation team led by [Eytan Bakshy](https://eytan.github.io/).
 
-My research interests lie at the intersection between operations research and machine learning, with an emphasis on Bayesian methods for efficient sequential data collection. Combining principled decision-theoretic foundations with sophisticated machine learning models, my work develops frameworks for adaptive experimental design in robotics, materials design, cellular agriculture, among other scientific applications.
+My research interests lie at the intersection between operations research and machine learning, with an emphasis on Bayesian methods for efficient sequential data collection. My work combines principled decision-theoretic foundations with sophisticated machine learning tools to develop frameworks for adaptive experimentation in robotics, materials design, cellular agriculture, among other scientific applications.
