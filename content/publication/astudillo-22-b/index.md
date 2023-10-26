@@ -1,6 +1,6 @@
 ---
 title: Multi-information Source Bayesian Optimization of Culture Media for Cellular Agriculture
-date: '2023-05-01'
+date: '2022-05-01'
 publishDate: '2021-10-21T22:34:17.512039Z'
 authors:
 - Zachary Cosenza
