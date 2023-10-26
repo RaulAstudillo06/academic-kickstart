@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:raul.astudillo@caltech.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:rastudil@caltech.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=r1Jkj7MAAAAJ&hl=en
@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Postdoctoral Scholar in the [Department of Computing and Mathematical Sciences](https://www.cms.caltech.edu/) at [Caltech](https://www.caltech.edu/), hosted by Professor [Yisong Yue](http://www.yisongyue.com/index.php). I recently obtained my Ph.D. in Operations Research and Information Engineering from [Cornell University](https://www.cornell.edu/), where I was fortunate to work under the supervision of Professor [Peter Frazier](https://people.orie.cornell.edu/pfrazier/). Before that, I completed the undergraduate program in Mathematics offered jointly by the [University of Guanajuato](http://www.ugto.mx/en/) and the [Center for Research in Mathematics](https://www.cimat.mx/en). In 2021, I was a Visiting Researcher at [Meta](https://research.facebook.com/) within the Adaptive Experimentation team led by [Eytan Bakshy](https://eytan.github.io/).
+I am a Postdoctoral Scholar in the [Department of Computing and Mathematical Sciences](https://www.cms.caltech.edu/) at [Caltech](https://www.caltech.edu/), hosted by Professor [Yisong Yue](http://www.yisongyue.com/index.php). I earned my Ph.D. in Operations Research and Information Engineering from [Cornell University](https://www.cornell.edu/), where I was fortunate to work under the supervision of Professor [Peter Frazier](https://people.orie.cornell.edu/pfrazier/). Before that, I completed the undergraduate program in Mathematics offered jointly by the [University of Guanajuato](http://www.ugto.mx/en/) and the [Center for Research in Mathematics](https://www.cimat.mx/en). In 2021, I was a Visiting Researcher at [Meta](https://research.facebook.com/) within the Adaptive Experimentation team led by [Eytan Bakshy](https://eytan.github.io/).
 
-My research interests lie at the intersection between operations research and machine learning, with an emphasis on Bayesian methods for efficient sequential data collection. My work combines principled decision-theoretic foundations with sophisticated machine learning tools to develop frameworks for adaptive experimentation in robotics, materials design, cellular agriculture, among other scientific applications.
+My research interests lie at the intersection between operations research and machine learning, with a focus on algorithms for efficient sequential decision-making under uncertainty. More specifically, my work combines rigorous decision-theoretic foundations with sophisticated machine learning tools to develop modern adaptive experimentation methods. These  methods have found application in cellular agriculture, materials design, and protein engineering.
