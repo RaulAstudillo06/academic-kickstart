@@ -66,6 +66,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
+
 <div style="text-align: justify"> 
 <p> I am a Postdoctoral Scholar in the <a href="https://www.cms.caltech.edu/">Department of Computing and Mathematical Sciences</a> at <a href="https://www.caltech.edu/">Caltech</a>, hosted by Professor <a href="http://www.yisongyue.com/index.php">Yisong Yue</a>. I earned my Ph.D. in Operations Research and Information Engineering from <a href="https://www.cornell.edu/">Cornell University</a>, where I worked with Professor <a href="https://people.orie.cornell.edu/pfrazier/">Peter Frazier</a>. During my Ph.D., I also spent six months as a Visiting Researcher at <a href="https://research.facebook.com/">Meta</a> with the Adaptive Experimentation team led by <a href="https://eytan.github.io/">Eytan Bakshy</a>.  Before joining Cornell, I completed the undergraduate program in Mathematics offered jointly by the <a href="http://www.ugto.mx/en/">University of Guanajuato</a> and the <a href="https://www.cimat.mx/en">Center for Research in Mathematics</a>. </p>
 
