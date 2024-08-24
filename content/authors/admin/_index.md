@@ -33,7 +33,7 @@ education:
   - course: Ph.D., Operations Research and Information Engineering
     institution: Cornell University
     year: 2022
-  - course: B.S., Mathematics
+  - course: B.Sc., Mathematics
     institution: University of Guanajuato & Center for Research in Mathematics (Mexico)
     year: 2016
 
@@ -66,9 +66,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
 <div style="text-align: justify"> 
 <p> I am a Postdoctoral Scholar in the <a href="https://www.cms.caltech.edu/">Department of Computing and Mathematical Sciences</a> at <a href="https://www.caltech.edu/">Caltech</a>, hosted by Professor <a href="http://www.yisongyue.com/index.php">Yisong Yue</a>. I earned my Ph.D. in Operations Research and Information Engineering from <a href="https://www.cornell.edu/">Cornell University</a>, where I worked with Professor <a href="https://people.orie.cornell.edu/pfrazier/">Peter Frazier</a>. During my Ph.D., I also spent six months as a Visiting Researcher at <a href="https://research.facebook.com/">Meta</a> with the Adaptive Experimentation team led by <a href="https://eytan.github.io/">Eytan Bakshy</a>.  Before joining Cornell, I completed the undergraduate program in Mathematics offered jointly by the <a href="http://www.ugto.mx/en/">University of Guanajuato</a> and the <a href="https://www.cimat.mx/en">Center for Research in Mathematics</a>. </p>
 
-<p> My research interests lie at the intersection between operations research and machine learning, with a focus on algorithms for efficient sequential decision-making under uncertainty. More specifically, my work combines rigorous decision-theoretic foundations with sophisticated machine learning tools to develop modern adaptive experimentation methods. These  methods have found application in cellular agriculture, materials design, and protein engineering. My research interests lie at the intersection between operations research and machine learning, with a focus on algorithms for efficient sequential decision-making under uncertainty. More specifically, my work combines rigorous decision-theoretic foundations with sophisticated machine learning tools to develop modern adaptive experimentation methods. These  methods have found application in cellular agriculture, materials design, and protein engineering. </p>
+<p> My research interests lie at the intersection between operations research and machine learning, with a focus on algorithms for efficient sequential decision-making under uncertainty. More specifically, my work combines rigorous decision-theoretic foundations with sophisticated machine learning tools to develop modern adaptive experimentation methods. These  methods have found application in cellular agriculture, materials design, and protein engineering. </p>
 </div>
