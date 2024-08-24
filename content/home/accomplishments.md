@@ -19,9 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = ""
+  organization_url = ""
   title = "Neural Networks and Deep Learning"
+  url = ""
+  certificate_url = ""
+  date_start = ""
+  date_end = ""
+  description = ""
 
-[item]
+[[item]]
   organization = "edX"
   organization_url = "https://www.edx.org"
   title = "Blockchain Fundamentals"
