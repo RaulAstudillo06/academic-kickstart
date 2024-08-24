@@ -67,8 +67,8 @@ user_groups:
 - Visitors
 ---
 
-%<div style="text-align: right"> 
+%<div style="text-align: justify"> 
 I am a Postdoctoral Scholar in the [Department of Computing and Mathematical Sciences](https://www.cms.caltech.edu/) at [Caltech](https://www.caltech.edu/), hosted by Professor [Yisong Yue](http://www.yisongyue.com/index.php). I earned my Ph.D. in Operations Research and Information Engineering from [Cornell University](https://www.cornell.edu/), where I worked with Professor [Peter Frazier](https://people.orie.cornell.edu/pfrazier/). Before that, I completed the undergraduate program in Mathematics offered jointly by the [University of Guanajuato](http://www.ugto.mx/en/) and the [Center for Research in Mathematics](https://www.cimat.mx/en). In 2021, I was a Visiting Researcher at [Meta](https://research.facebook.com/) within the Adaptive Experimentation team led by [Eytan Bakshy](https://eytan.github.io/).
 
 My research interests lie at the intersection between operations research and machine learning, with a focus on algorithms for efficient sequential decision-making under uncertainty. More specifically, my work combines rigorous decision-theoretic foundations with sophisticated machine learning tools to develop modern adaptive experimentation methods. These  methods have found application in cellular agriculture, materials design, and protein engineering. 
-</div>%
+</div>
