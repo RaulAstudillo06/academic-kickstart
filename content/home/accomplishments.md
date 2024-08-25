@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "Our paper (https://arxiv.org/abs/2311.02146)[Bayesian Optimization of Function Networks with Decoubled Evaluations] was accepted at ICML 2014."
+  title = "Our paper [Bayesian Optimization of Function Networks with Decoubled Evaluations](https://arxiv.org/abs/2311.02146) was accepted at ICML 2014."
   url = ""
   certificate_url = ""
   date_start = "2024-04-01"
