@@ -21,21 +21,21 @@ organizations:
 bio:
 
 interests:
-- Bayesian Optimization
-- Preference Elicitation
-- Adaptive Experimentation
-- Simulation Optimization
-- Optimal Learning
-- Bayesian Machine Learning 
+#- Bayesian Optimization
+#- Preference Elicitation
+#- Adaptive Experimentation
+#- Simulation Optimization
+#- Optimal Learning
+#- Bayesian Machine Learning 
 
 education:
-  courses:
-  - course: Ph.D., Operations Research and Information Engineering
-    institution: Cornell University
-    year: 2022
-  - course: B.Sc., Mathematics
-    institution: University of Guanajuato & Center for Research in Mathematics (Mexico)
-    year: 2016
+  # courses:
+  # - course: Ph.D., Operations Research and Information Engineering
+  #  institution: Cornell University
+  #  year: 2022
+  #- course: B.Sc., Mathematics
+  #  institution: University of Guanajuato & Center for Research in Mathematics (Mexico)
+  #  year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
