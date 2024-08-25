@@ -21,7 +21,37 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "Our paper [Bayesian Optimization of Function Networks with Decoubled Evaluations](https://arxiv.org/abs/2311.02146) was accepted at ICML 2014."
+  title = "Congratulations to my mentee, Chu Xin Cheng, for being named a finalist in the 2024 INFORMS Undergraduate Operations Research Prize Competition!"
+  url = ""
+  certificate_url = ""
+  date_start = "2024-08-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Our preprint [Active learning-assisted directed evolution](https://www.biorxiv.org/content/10.1101/2024.07.27.605457v1) is now available."
+  url = ""
+  certificate_url = ""
+  date_start = "2024-07-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Our preprint [Cost-aware Bayesian optimization via the Pandora's Box Gittins index](https://arxiv.org/abs/2406.20062) is now available."
+  url = ""
+  certificate_url = ""
+  date_start = "2024-06-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Our paper [Bayesian optimization of function networks with decoubled evaluations](https://arxiv.org/abs/2311.02146) was accepted at ICML 2024."
   url = ""
   certificate_url = ""
   date_start = "2024-04-01"
@@ -29,23 +59,13 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = ""
+  organization_url = ""
+  title = "Honored to be recognized as a [Rising Star in Management Science & Engineering](https://msandedei.stanford.edu/events/rising-stars) by Stanford University."
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = ""
+  date_start = "2024-03-01"
+  date_end = ""
   description = ""
 
 +++
