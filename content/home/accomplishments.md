@@ -21,12 +21,12 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "Neural Networks and Deep Learning"
+  title = "Our paper Bayesian Optimization of Function Networks with Decoubled Evaluations was accepted at ICML 2014."
   url = ""
   certificate_url = ""
   date_start = "2018-10-01"
   date_end = ""
-  description = ""
+  description = "Our paper Bayesian Optimization of Function Networks with Decoubled Evaluations was accepted at ICML 2014."
 
 [[item]]
   organization = "edX"
