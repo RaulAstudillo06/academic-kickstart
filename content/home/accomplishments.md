@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "News"
 subtitle = ""
 
 # Date format
@@ -21,12 +21,12 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "Our paper Bayesian Optimization of Function Networks with Decoubled Evaluations was accepted at ICML 2014."
+  title = "Our paper (https://arxiv.org/abs/2311.02146)[Bayesian Optimization of Function Networks with Decoubled Evaluations] was accepted at ICML 2014."
   url = ""
   certificate_url = ""
-  date_start = "2018-10-01"
+  date_start = "2024-04-01"
   date_end = ""
-  description = "Our paper Bayesian Optimization of Function Networks with Decoubled Evaluations was accepted at ICML 2014."
+  description = ""
 
 [[item]]
   organization = "edX"
