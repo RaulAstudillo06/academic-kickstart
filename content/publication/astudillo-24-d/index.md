@@ -1,7 +1,7 @@
 ---
 title: 'Cost-Aware Bayesian Optimization via the Pandora's Box Gittins Index'
 date: '2024-08-04'
-publishDate: '2024-08-04T22:34:17.512039Z'
+publishDate: '2024-08-21T22:34:17.512039Z'
 authors:
 - Qian Xie
 - Raul Astudillo

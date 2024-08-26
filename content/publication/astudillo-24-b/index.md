@@ -1,7 +1,7 @@
 ---
 title: 'Preferential Multi-Objective Bayesian Optimization'
 date: '2024-08-01'
-publishDate: '2024-08-01T22:34:17.512039Z'
+publishDate: '2024-08-21T22:34:17.512039Z'
 authors:
 - Raul Astudillo
 - Kejun Li
