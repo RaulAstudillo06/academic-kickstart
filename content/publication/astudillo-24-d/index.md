@@ -1,5 +1,5 @@
 ---
-title: 'Cost-Aware Bayesian Optimization via the Pandora's Box Gittins Index'
+title: 'Cost-Aware Bayesian Optimization via the Pandora Box Gittins Index'
 date: '2024-08-03'
 publishDate: '2024-08-21T22:34:17.512039Z'
 authors:
