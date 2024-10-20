@@ -21,7 +21,17 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "Congratulations to my mentee, Chu Xin Cheng, on being named a finalist in the 2024 INFORMS Undergraduate Operations Research Prize Competition!"
+  title = "Honored to be recognized as a [Rising Star in Data Science](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars/) by UChicago and UC San Diego."
+  url = ""
+  certificate_url = ""
+  date_start = "2024-09-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Congratulations to my mentee, Chu Xin Cheng, on being named a finalist in the [2024 INFORMS Undergraduate Operations Research Prize Competition](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Undergraduate-Operations-Research-Prize)!"
   url = ""
   certificate_url = ""
   date_start = "2024-08-01"
