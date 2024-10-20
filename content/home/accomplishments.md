@@ -21,6 +21,26 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
+  title = "Our paper [Practical Bayesian algorithm execution via posterior sampling](https://openreview.net/forum?id=1ebDEnMdUh) (full paper coming soon!) has been accepted to NeurIPS 2024.""
+  url = ""
+  certificate_url = ""
+  date_start = "2024-09-03"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Our paper [Cost-aware Bayesian optimization via the Pandora's box Gittins index](https://arxiv.org/abs/2406.20062) has been accepted to NeurIPS 2024.""
+  url = ""
+  certificate_url = ""
+  date_start = "2024-09-02"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
   title = "Honored to be recognized as a [Rising Star in Data Science](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars/) by UChicago and UC San Diego."
   url = ""
   certificate_url = ""
@@ -45,36 +65,6 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2024-07-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "Our preprint [Cost-aware Bayesian optimization via the Pandora's box Gittins index](https://arxiv.org/abs/2406.20062) is now available."
-  url = ""
-  certificate_url = ""
-  date_start = "2024-06-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "Our paper [Bayesian optimization of function networks with decoupled evaluations](https://arxiv.org/abs/2311.02146) was accepted at ICML 2024."
-  url = ""
-  certificate_url = ""
-  date_start = "2024-04-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "Honored to be recognized as a [Rising Star in Management Science & Engineering](https://msandedei.stanford.edu/events/rising-stars) by Stanford University."
-  url = ""
-  certificate_url = ""
-  date_start = "2024-03-01"
   date_end = ""
   description = ""
 
