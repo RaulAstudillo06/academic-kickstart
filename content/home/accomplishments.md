@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "Our paper [Practical Bayesian algorithm execution via posterior sampling](https://openreview.net/forum?id=1ebDEnMdUh) (full paper coming soon) has been accepted to NeurIPS 2024!"
+  title = "Our paper [Practical Bayesian algorithm execution via posterior sampling](https://arxiv.org/abs/2410.20596) has been accepted to NeurIPS 2024!"
   url = ""
   certificate_url = ""
   date_start = "2024-09-03"
