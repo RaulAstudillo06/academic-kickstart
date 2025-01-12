@@ -73,7 +73,7 @@ user_groups:
 
 <p> My research interests lie at the intersection between operations research and machine learning. By integrating tools from both fields, I develop algorithms that enable intelligent decision-making in complex environments where information is costly to gather or process. My work has found application in areas such as cellular agriculture, materials design, and protein engineering. </p>
 
-<p><b> Honored to be named a Rising Star in Management Science and Engineering by Stanford University, and a Rising Star in Data Science by the UChicago and UC San Diego. </b></p>
+<p><b> Honored to be named a Rising Star in Management Science and Engineering by Stanford University, and a Rising Star in Data Science by UChicago and UC San Diego. </b></p>
 
 <p><b> I am on the 2024-2025 academic job market! </b></p>
 </div>
