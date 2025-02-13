@@ -75,5 +75,5 @@ user_groups:
 
 <p><b> Honored to be named a Rising Star in Management Science and Engineering by Stanford University, and a Rising Star in Data Science by UChicago and UC San Diego. </b></p>
 
-<p><b> I am on the 2024-2025 academic job market! </b></p>
+<p><b> I am on the 2024-2025 job market! </b></p>
 </div>
