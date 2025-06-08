@@ -1,10 +1,10 @@
 ---
-title: Multi-Attribute Bayesian Optimization With Interactive Preference Learning
-date: '2020-07-01'
-publishDate: '2021-10-21T22:34:17.512039Z'
+title: Multi-attribute Bayesian optimization with interactive preference learning
+date: '2020-08-26'
+publishDate: '2020-08-26T22:34:17.512039Z'
 authors:
 - Raul Astudillo
-- Peter I Frazier
+- Peter I. Frazier
 publication_types:
 - '1'
 abstract: We consider black-box global optimization of time-consuming-to-evaluate
