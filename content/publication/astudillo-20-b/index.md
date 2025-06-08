@@ -1,16 +1,16 @@
 ---
-title: Bayesian Optimization of Risk Measures
+title: Bayesian optimization of risk measures
 date: '2020-12-01'
-publishDate: '2021-10-21T22:34:17.480161Z'
+publishDate: '2020-12-01T22:34:17.480161Z'
 authors:
 - Sait Cakmak
 - Raul Astudillo
-- Peter I Frazier
+- Peter I. Frazier
 - Enlu Zhou
 publication_types:
 - '1'
-abstract: We consider Bayesian optimization of objective functions of the form $h̊o[
-  F(x, W) ]$, where $F$ is a black-box expensive-to-evaluate function and $o̊$ denotes
+abstract: We consider Bayesian optimization of objective functions of the form $\rho[
+  F(x, W) ]$, where $F$ is a black-box expensive-to-evaluate function and $\rho$ denotes
   either the VaR or CVaR risk measure, computed with respect to the randomness induced
   by the environmental random variable $W$. Such problems arise in decision making
   under uncertainty, such as in portfolio optimization and robust systems design.

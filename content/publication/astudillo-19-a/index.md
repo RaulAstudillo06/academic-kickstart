@@ -24,6 +24,6 @@ abstract: We consider optimization of composite objective functions, i.e., of th
   reducing simple regret by several orders of magnitude.
 featured: false
 publication: '*Proceedings of the 36th International Conference on Machine Learning*'
-url_pdf: http://proceedings.mlr.press/v97/astudillo19a/astudillo19a.pdf
+url_pdf: https://arxiv.org/pdf/1906.01537
 ---
 
