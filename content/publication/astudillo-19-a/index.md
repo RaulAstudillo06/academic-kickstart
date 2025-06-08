@@ -1,10 +1,10 @@
 ---
-title: Bayesian Optimization of Composite Functions
+title: Bayesian optimization of composite functions
 date: '2019-06-01'
-publishDate: '2021-10-21T22:34:17.534409Z'
+publishDate: '2019-06-01T22:34:17.534409Z'
 authors:
 - Raul Astudillo
-- Peter I Frazier
+- Peter I. Frazier
 publication_types:
 - '1'
 abstract: We consider optimization of composite objective functions, i.e., of the
