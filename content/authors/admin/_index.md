@@ -73,5 +73,5 @@ user_groups:
 
 <p> My research focuses on adaptive learning and decision-making, with applications in personalized healthcare, engineering design, and scientific discovery. I was named a Rising Star in Management Science and Engineering by Stanford University, and a Rising Star in Data Science by the UChicago and UC San Diego in recognition of my research contributions. </p>
 
-<p> I will be joining the <a href="https://mbzuai.ac.ae/research-department/machine-learning-department/">Department of Machine Learning</a> at <a href="https://mbzuai.ac.ae/">MBZUAI</a> as a tenure-track Assistant Professor in August 2025. I am currently recruiting motivated students and postdoctoral researchers. If you are interested in working with me, please reach out via email with your CV. </p>
+<p><b> I will be joining the <a href="https://mbzuai.ac.ae/research-department/machine-learning-department/">Department of Machine Learning</a> at <a href="https://mbzuai.ac.ae/">MBZUAI</a> as a tenure-track Assistant Professor in August 2025. I am currently recruiting motivated students and postdoctoral researchers. If you are interested in working with me, please reach out via email with your CV. </b></p>
 </div>
