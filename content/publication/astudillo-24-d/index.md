@@ -1,18 +1,16 @@
 ---
-title: 'Cost-Aware Bayesian Optimization via the Pandora Box Gittins Index'
-date: '2024-08-03'
+title: 'Multi-Attribute Optimization Under Preference Uncertainty'
+date: '2024-12-03'
 publishDate: '2024-08-21T22:34:17.512039Z'
 authors:
-- Qian Xie
+- Bhavik Sha
 - Raul Astudillo
 - Peter Frazier
-- Ziv Scully
-- Alexander Terenin
 publication_types:
 - '1'
-abstract: Bayesian optimization is a technique for efficiently optimizing unknown functions in a black-box manner. To handle practical settings where gathering data requires use of finite resources, it is desirable to explicitly incorporate function evaluation costs into Bayesian optimization policies. To understand how to do so, we develop a previously-unexplored connection between cost-aware Bayesian optimization and the Pandora's Box problem, a decision problem from economics. The Pandora's Box problem admits a Bayesian-optimal solution based on an expression called the Gittins index, which can be reinterpreted as an acquisition function. We study the use of this acquisition function for cost-aware Bayesian optimization, and demonstrate empirically that it performs well, particularly in medium-high dimensions. We further show that this performance carries over to classical Bayesian optimization without explicit evaluation costs. Our work constitutes a first step towards integrating techniques from Gittins index theory into Bayesian optimization.
+abstract: We introduce multi-attribute optimization under preference uncertainty, a novel approach for optimization-based decision support when the decision-maker's preferences are uncertain. Here, each feasible design is associated with a vector of attributes, which is in turn assigned a utility by the decision-maker's utility function. This utility function has been incompletely estimated, and its remaining uncertainty is quantified by a Bayesian probability distribution. We develop an optimization-based formulation to generate a menu of diverse solutions, among which the decision-maker is expected to find a high-utility solution. The resulting optimization problem is challenging to solve in general, but we show that it can be approximately solved efficiently when the attributes and utility function are linear by reformulating it as a mixed-integer linear program, and using sample average approximation and submodular maximization. We also propose a posterior sampling approach that only requires optimizing individual samples of the user's utility function, supporting fast computation.
 featured: false
-publication: '*Preprint*'
-url_pdf: https://arxiv.org/pdf/2406.20062
+publication: '*2024 Winter Simulation Conference (WSC)*'
+url_pdf: https://ieeexplore.ieee.org/abstract/document/10838798
 ---
 

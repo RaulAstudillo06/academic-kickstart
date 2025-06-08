@@ -1,22 +1,17 @@
 ---
-title: 'Active Learning-Assited Directed Evolution'
-date: '2024-08-02'
-publishDate: '2024-08-21T22:34:17.512039Z'
+title: 'Practical Bayesian Algorithm Execution via Posterior Sampling'
+date: '2024-12-03'
+publishDate: '2024-08-22T22:34:17.512039Z'
 authors:
-- Jason Yang
-- Ravi G Lal
-- James C Bowden
+- Chu Xin Cheng
 - Raul Astudillo
-- Mikhail A Hameedi
-- Sukhvinder Kaur
-- Matthew Hill
+- Thomas Desautels
 - Yisong Yue
-- Frances H Arnold
 publication_types:
-- '2'
-abstract: Directed evolution (DE) is a powerful tool to optimize protein fitness for a specific application. However, DE can be inefficient when mutations exhibit non-additive, or epistatic, behavior. Here, we present Active Learning-assisted Directed Evolution (ALDE), an iterative machine learning-assisted DE workflow that leverages uncertainty quantification to explore the search space of proteins more efficiently than current DE methods. We apply ALDE to an engineering landscape that is challenging for DE; namely, optimization of five epistatic residues in the active site of an enzyme. In three rounds of wet-lab experimentation, we improve the yield of a desired product of a non-native cyclopropanation reaction from 12% to 93%. We also perform computational simulations on existing protein sequence-fitness datasets to support our argument that ALDE can be more effective than DE. Overall, ALDE is a practical and broadly applicable strategy to unlock improved protein engineering outcomes.
+- '1'
+abstract: We consider Bayesian algorithm execution (BAX), a framework for efficiently selecting evaluation points of an expensive function to infer a property of interest encoded as the output of a base algorithm. Since the base algorithm typically requires more evaluations than are feasible, it cannot be directly applied. Instead, BAX methods sequentially select evaluation points using a probabilistic numerical approach. Current BAX methods use expected information gain to guide this selection. However, this approach is computationally intensive. Observing that, in many tasks, the property of interest corresponds to a target set of points defined by the function, we introduce PS-BAX, a simple, effective, and scalable BAX method based on posterior sampling. PS-BAX is applicable to a wide range of problems, including many optimization variants and level set estimation. Experiments across diverse tasks demonstrate that PS-BAX performs competitively with existing baselines while being significantly faster, simpler to implement, and easily parallelizable, setting a strong baseline for future research. Additionally, we establish conditions under which PS-BAX is asymptotically convergent, offering new insights into posterior sampling as an algorithm design paradigm.
 featured: false
-publication: '*Preprint*'
-url_pdf: https://www.biorxiv.org/content/10.1101/2024.07.27.605457v1.full.pdf
+publication: '*Advances in Neural Information Processing Systems*'
+url_pdf: https://arxiv.org/pdf/2410.20596
 ---
 

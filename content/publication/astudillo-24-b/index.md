@@ -1,19 +1,18 @@
 ---
-title: 'Preferential Multi-Objective Bayesian Optimization'
-date: '2024-08-01'
+title: 'Cost-Aware Bayesian Optimization via the Pandora Box Gittins Index'
+date: '2024-12-03'
 publishDate: '2024-08-21T22:34:17.512039Z'
 authors:
+- Qian Xie
 - Raul Astudillo
-- Kejun Li
-- Maegan Tucker
-- Chu Xin Cheng
-- Aaron D Ames
-- Yisong Yue
+- Peter Frazier
+- Ziv Scully
+- Alexander Terenin
 publication_types:
 - '1'
-abstract: Preferential Bayesian optimization (PBO) is a framework for optimizing a decision-maker's latent preferences over available design choices. While preferences often involve multiple conflicting objectives, existing work in PBO assumes that preferences can be encoded by a single objective function. For example, in robotic assistive devices, technicians often attempt to maximize user comfort while simultaneously minimizing mechanical energy consumption for longer battery life. Similarly, in autonomous driving policy design, decision-makers wish to understand the trade-offs between multiple safety and performance attributes before committing to a policy. To address this gap, we propose the first framework for PBO with multiple objectives. Within this framework, we present dueling scalarized Thompson sampling (DSTS), a multi-objective generalization of the popular dueling Thompson algorithm, which may be of interest beyond the PBO setting. We evaluate DSTS across four synthetic test functions and two simulated exoskeleton personalization and driving policy design tasks, showing that it outperforms several benchmarks. Finally, we prove that DSTS is asymptotically consistent. As a direct consequence, this result provides, to our knowledge, the first convergence guarantee for dueling Thompson sampling in the PBO setting.
+abstract: Bayesian optimization is a technique for efficiently optimizing unknown functions in a black-box manner. To handle practical settings where gathering data requires use of finite resources, it is desirable to explicitly incorporate function evaluation costs into Bayesian optimization policies. To understand how to do so, we develop a previously-unexplored connection between cost-aware Bayesian optimization and the Pandora's Box problem, a decision problem from economics. The Pandora's Box problem admits a Bayesian-optimal solution based on an expression called the Gittins index, which can be reinterpreted as an acquisition function. We study the use of this acquisition function for cost-aware Bayesian optimization, and demonstrate empirically that it performs well, particularly in medium-high dimensions. We further show that this performance carries over to classical Bayesian optimization without explicit evaluation costs. Our work constitutes a first step towards integrating techniques from Gittins index theory into Bayesian optimization.
 featured: false
-publication: '*Preprint*'
-url_pdf: https://arxiv.org/pdf/2406.14699
+publication: '*Advances in Neural Information Processing Systems*'
+url_pdf: https://arxiv.org/pdf/2406.20062
 ---
 
