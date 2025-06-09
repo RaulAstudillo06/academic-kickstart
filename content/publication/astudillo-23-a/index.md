@@ -3,7 +3,7 @@ title: 'qEUBO: A decision-theoretic acquisition function for preferential Bayesi
 date: '2023-04-01'
 publishDate: '2023-04-01T22:34:17.512039Z'
 authors:
-- Raul Astudillo
+-  <u>Raul Astudillo</u>
 - Zhiyuan Jerry Lin
 - Eytan Bakshy
 - Peter I. Frazier
