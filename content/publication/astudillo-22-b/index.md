@@ -4,7 +4,7 @@ date: '2022-05-11'
 publishDate: '2022-05-11T22:34:17.512039Z'
 authors:
 - Zachary Cosenza
-- Raul Astudillo
+- <u>Raul Astudillo</u>
 - Peter I. Frazier
 - Keith Baar
 - David E. Block

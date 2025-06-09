@@ -3,7 +3,7 @@ title: 'Thinking inside the box: A tutorial on grey-box Bayesian optimization'
 date: '2021-12-03'
 publishDate: '2021-12-03T19:09:51.783898Z'
 authors:
-- Raul Astudillo
+- <u>Raul Astudillo</u>
 - Peter I. Frazier
 publication_types:
 - '1'

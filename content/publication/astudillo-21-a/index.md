@@ -3,7 +3,7 @@ title: Bayesian optimization of function networks
 date: '2021-12-01'
 publishDate: '2021-12-01T22:34:17.453262Z'
 authors:
-- Raul Astudillo
+- <u>Raul Astudillo</u>
 - Peter I. Frazier
 publication_types:
 - '1'

@@ -4,7 +4,7 @@ date: '2022-04-01'
 publishDate: '2022-04-01T22:34:17.512039Z'
 authors:
 - Zhiyuan Jerry Lin
-- Raul Astudillo
+- <u>Raul Astudillo</u>
 - Peter I. Frazier
 - Eytan Bakshy
 publication_types:

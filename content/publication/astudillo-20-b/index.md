@@ -4,7 +4,7 @@ date: '2020-12-01'
 publishDate: '2020-12-01T22:34:17.480161Z'
 authors:
 - Sait Cakmak
-- Raul Astudillo
+- <u>Raul Astudillo</u>
 - Peter I. Frazier
 - Enlu Zhou
 publication_types:

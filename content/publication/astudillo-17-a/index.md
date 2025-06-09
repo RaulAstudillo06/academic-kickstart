@@ -3,7 +3,7 @@ title: Multi-attribute Bayesian optimization under utility uncertainty
 date: '2017-12-01'
 publishDate: '2017-12-01T22:34:17.559820Z'
 authors:
-- Raul Astudillo
+- <u>Raul Astudillo</u>
 - Peter I. Frazier
 publication_types:
 - '1'

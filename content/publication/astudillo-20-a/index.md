@@ -3,7 +3,7 @@ title: Multi-attribute Bayesian optimization with interactive preference learnin
 date: '2020-08-26'
 publishDate: '2020-08-26T22:34:17.512039Z'
 authors:
-- Raul Astudillo
+- <u>Raul Astudillo</u>
 - Peter I. Frazier
 publication_types:
 - '1'

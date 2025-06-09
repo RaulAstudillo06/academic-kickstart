@@ -3,7 +3,7 @@ title: Bayesian optimization of composite functions
 date: '2019-06-01'
 publishDate: '2019-06-01T22:34:17.534409Z'
 authors:
-- Raul Astudillo
+- <u>Raul Astudillo</u>
 - Peter I. Frazier
 publication_types:
 - '1'

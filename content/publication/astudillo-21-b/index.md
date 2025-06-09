@@ -3,7 +3,7 @@ title: Multi-step budgeted Bayesian optimization with unknown evaluation costs
 date: '2021-12-02'
 publishDate: '2021-12-02T22:34:17.424721Z'
 authors:
-- Raul Astudillo
+- <u>Raul Astudillo</u>
 - Daniel R Jiang
 - Maximilian Balandat
 - Peter I. Frazier
