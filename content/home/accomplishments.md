@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "I will be joining the <a href="https://mbzuai.ac.ae/research-department/machine-learning-department/">Department of Machine Learning</a> at <a href="https://mbzuai.ac.ae/">MBZUAI</a> as a tenure-track Assistant Professor in August 2025."
+  title = "I will be joining the [Department of Machine Learning](https://mbzuai.ac.ae/research-department/machine-learning-department/) at [MBZUAI](https://mbzuai.ac.ae/) as a tenure-track Assistant Professor in August 2025!"
   url = ""
   certificate_url = ""
   date_start = "2025-05-31"
