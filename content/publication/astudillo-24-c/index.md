@@ -1,10 +1,10 @@
 ---
-title: 'Practical Bayesian Algorithm Execution via Posterior Sampling'
-date: '2024-12-03'
-publishDate: '2024-08-22T22:34:17.512039Z'
+title: 'Practical Bayesian algorithm execution via posterior sampling'
+date: '2024-12-04'
+publishDate: '2024-12-04T22:34:17.512039Z'
 authors:
 - Chu Xin Cheng
-- Raul Astudillo
+- <u>Raul Astudillo</u>
 - Thomas Desautels
 - Yisong Yue
 publication_types:

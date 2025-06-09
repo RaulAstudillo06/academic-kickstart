@@ -1,11 +1,11 @@
 ---
-title: 'Bayesian Optimization of Function Networks with Partial Evaluations'
+title: 'Bayesian optimization of function networks with partial evaluations'
 date: '2024-07-01'
-publishDate: '2024-07-21T22:34:17.512039Z'
+publishDate: '2024-07-01T22:34:17.512039Z'
 authors:
 - Poompol Buathong
 - Jiayue Wan
-- Raul Astudillo
+- <u>Raul Astudillo</u>
 - Sam Daulton
 - Max Balandat
 - Peter Frazier
