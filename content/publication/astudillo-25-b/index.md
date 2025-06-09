@@ -1,19 +1,22 @@
 ---
-title: 'Preferential Multi-Objective Bayesian Optimization'
-date: '2025-05-01'
-publishDate: '2024-05-01T22:34:17.512039Z'
+title: 'Active learning-assisted directed evolution'
+date: '2025-01-16'
+publishDate: '2025-01-16T22:34:17.512039Z'
 authors:
+- Jason Yang
+- Ravi G. Lal
+- James C. Bowden
 - Raul Astudillo
-- Kejun Li
-- Maegan Tucker
-- Chu Xin Cheng
-- Aaron D Ames
+- Mikhail A. Hameedi
+- Sukhvinder Kaur
+- Matthew Hill
 - Yisong Yue
+- Frances H. Arnold
 publication_types:
 - '2'
-abstract: Preferential Bayesian optimization (PBO) is a framework for optimizing a decision-maker's latent preferences over available design choices. While preferences often involve multiple conflicting objectives, existing work in PBO assumes that preferences can be encoded by a single objective function. For example, in robotic assistive devices, technicians often attempt to maximize user comfort while simultaneously minimizing mechanical energy consumption for longer battery life. Similarly, in autonomous driving policy design, decision-makers wish to understand the trade-offs between multiple safety and performance attributes before committing to a policy. To address this gap, we propose the first framework for PBO with multiple objectives. Within this framework, we present dueling scalarized Thompson sampling (DSTS), a multi-objective generalization of the popular dueling Thompson algorithm, which may be of interest beyond the PBO setting. We evaluate DSTS across four synthetic test functions and two simulated exoskeleton personalization and driving policy design tasks, showing that it outperforms several benchmarks. Finally, we prove that DSTS is asymptotically consistent. As a direct consequence, this result provides, to our knowledge, the first convergence guarantee for dueling Thompson sampling in the PBO setting.
+abstract: Directed evolution (DE) is a powerful tool to optimize protein fitness for a specific application. However, DE can be inefficient when mutations exhibit non-additive, or epistatic, behavior. Here, we present Active Learning-assisted Directed Evolution (ALDE), an iterative machine learning-assisted DE workflow that leverages uncertainty quantification to explore the search space of proteins more efficiently than current DE methods. We apply ALDE to an engineering landscape that is challenging for DE; namely, optimization of five epistatic residues in the active site of an enzyme. In three rounds of wet-lab experimentation, we improve the yield of a desired product of a non-native cyclopropanation reaction from 12% to 93%. We also perform computational simulations on existing protein sequence-fitness datasets to support our argument that ALDE can be more effective than DE. Overall, ALDE is a practical and broadly applicable strategy to unlock improved protein engineering outcomes.
 featured: false
-publication: '*Transactions on Machine Learning Research*'
-url_pdf: https://arxiv.org/pdf/2406.14699
+publication: '*Nature Communications*'
+url_pdf: https://www.nature.com/articles/s41467-025-55987-8
 ---
 
