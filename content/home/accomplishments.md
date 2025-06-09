@@ -21,6 +21,46 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
+  title = "I will be joining the <a href="https://mbzuai.ac.ae/research-department/machine-learning-department/">Department of Machine Learning</a> at <a href="https://mbzuai.ac.ae/">MBZUAI</a> as a tenure-track Assistant Professor in August 2025."
+  url = ""
+  certificate_url = ""
+  date_start = "2025-05-31"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Our preprint [Steering generative models with experimental data for protein fitness optimization](https://arxiv.org/abs/2505.15093) is now available."
+  url = ""
+  certificate_url = ""
+  date_start = "2025-05-21"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Our paper [Preferential multi-objective Bayesian optimization](https://openreview.net/forum?id=mjsoESaWDH) has been accepted to TMLR!"
+  url = ""
+  certificate_url = ""
+  date_start = "2025-05-12"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "Our paper [Active learning-assisted directed evolution](https://www.nature.com/articles/s41467-025-55987-8) has been accepted to Nature Communications!"
+  url = ""
+  certificate_url = ""
+  date_start = "2025-01-12"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
   title = "Our paper [Practical Bayesian algorithm execution via posterior sampling](https://arxiv.org/abs/2410.20596) has been accepted to NeurIPS 2024!"
   url = ""
   certificate_url = ""
