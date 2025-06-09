@@ -1,11 +1,12 @@
 ---
-title: Multi-Step Budgeted Bayesian Optimization with Unknown Evaluation Costs
+title: Multi-step budgeted Bayesian optimization with unknown evaluation costs
 date: '2021-12-02'
+publishDate: '2021-12-02T22:34:17.424721Z'
 authors:
 - Raul Astudillo
 - Daniel R Jiang
 - Maximilian Balandat
-- Peter I Frazier
+- Peter I. Frazier
 - Eytan Bakshy
 publication_types:
 - '1'
@@ -29,6 +30,6 @@ abstract: Bayesian optimization (BO) is a sample-efficient approach to optimizin
   outperforms existing BO methods in a variety of synthetic and realistic problems.
 featured: false
 publication: '*Advances in Neural Information Processing Systems*'
-publishDate: '2021-10-21T22:34:17.424721Z'
+url_pdf: https://arxiv.org/pdf/2111.06537
 ---
 
