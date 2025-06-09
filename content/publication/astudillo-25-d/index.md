@@ -1,12 +1,12 @@
 ---
-title: 'Steering Generative Models with Experimental Data for Protein Fitness Optimization'
+title: 'Steering generative models with experimental data for protein fitness optimization'
 date: '2025-05-21'
 publishDate: '2025-05-21T22:34:17.512039Z'
 authors:
 - Jason Yang
 - Wenda Chu
 - Daniel Khalil
-- Raul Astudillo
+- <u>Raul Astudillo</u>
 - Bruce J. Wittmann
 - Frances H. Arnold
 - Yisong Yue

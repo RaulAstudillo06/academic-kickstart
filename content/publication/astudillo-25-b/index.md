@@ -6,7 +6,7 @@ authors:
 - Jason Yang
 - Ravi G. Lal
 - James C. Bowden
-- Raul Astudillo
+- <u>Raul Astudillo</u>
 - Mikhail A. Hameedi
 - Sukhvinder Kaur
 - Matthew Hill

@@ -4,7 +4,7 @@ date: '2025-01-01'
 publishDate: '2025-01-01T22:34:17.512039Z'
 authors:
 - Jean-Luc Jannink
-- Raul Astudillo
+- <u>Raul Astudillo</u>
 - Peter I. Frazier
 publication_types:
 - '2'
