@@ -1,11 +1,11 @@
 ---
-title: Preference Exploration for Efficient Bayesian Optimization with Multiple Outcomes
+title: Preference exploration for efficient Bayesian optimization with multiple outcomes
 date: '2022-04-01'
-publishDate: '2021-10-21T22:34:17.512039Z'
+publishDate: '2022-04-01T22:34:17.512039Z'
 authors:
 - Zhiyuan Jerry Lin
 - Raul Astudillo
-- Peter I Frazier
+- Peter I. Frazier
 - Eytan Bakshy
 publication_types:
 - '1'
