@@ -18,23 +18,34 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
 [[item]]
   organization = ""
   organization_url = ""
-  title = "I will be joining the [Department of Machine Learning](https://mbzuai.ac.ae/research-department/machine-learning-department/) at [MBZUAI](https://mbzuai.ac.ae/) as a tenure-track Assistant Professor in August 2025!"
+  title = "Our paper [Steering generative models with experimental data for protein fitness optimization](https://arxiv.org/abs/2505.15093) has been accepted to NeurIPS 2025!"
   url = ""
   certificate_url = ""
-  date_start = "2025-05-31"
+  date_start = "2025-10-02"
   date_end = ""
   description = ""
 
 [[item]]
   organization = ""
   organization_url = ""
-  title = "Our preprint [Steering generative models with experimental data for protein fitness optimization](https://arxiv.org/abs/2505.15093) is now available."
+  title = "Our paper [Bayesian preference elicitation for decision support in multi-objective optimization](https://arxiv.org/abs/2507.16999) has been accepted to the Journal of Multi-Criteria Decision Analysis!"
   url = ""
   certificate_url = ""
-  date_start = "2025-05-21"
+  date_start = "2025-10-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = ""
+  organization_url = ""
+  title = "I have joined the [Department of Machine Learning](https://mbzuai.ac.ae/research-department/machine-learning-department/) at [MBZUAI](https://mbzuai.ac.ae/) as a tenure-track Assistant Professor!"
+  url = ""
+  certificate_url = ""
+  date_start = "2025-08-01"
   date_end = ""
   description = ""
 
@@ -55,16 +66,6 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2025-01-12"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "Our papers [Practical Bayesian algorithm execution via posterior sampling](https://arxiv.org/abs/2410.20596) and [Cost-aware Bayesian optimization via the Pandora's box Gittins index](https://arxiv.org/abs/2406.20062) have been accepted to NeurIPS 2024!"
-  url = ""
-  certificate_url = ""
-  date_start = "2024-09-03"
   date_end = ""
   description = ""
 
