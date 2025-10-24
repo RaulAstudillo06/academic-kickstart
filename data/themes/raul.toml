@@ -5,7 +5,7 @@ name = "Raul"
 light = true
 
 # Primary
-primary = "#10069F"
+primary = "#4EC3E0"
 
 # Menu
 menu_primary = "#76777B" # Material 500
