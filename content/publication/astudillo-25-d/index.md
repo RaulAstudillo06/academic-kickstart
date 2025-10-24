@@ -1,20 +1,16 @@
 ---
-title: 'Steering generative models with experimental data for protein fitness optimization'
-date: '2025-05-21'
-publishDate: '2025-05-21T22:34:17.512039Z'
+title: 'Bayesian preference elicitation for decision support in multi-objective optimization'
+date: '2025-10-01'
+publishDate: '2025-10-01T22:34:17.512039Z'
 authors:
-- Jason Yang
-- Wenda Chu
-- Daniel Khalil
+- Felix Huber
+- Sebastian Rojas-Gonzalez
 - <u>Raul Astudillo</u>
-- Bruce J. Wittmann
-- Frances H. Arnold
-- Yisong Yue
 publication_types:
 - '1'
-abstract: Protein fitness optimization involves finding a protein sequence that maximizes desired quantitative properties in a combinatorially large design space of possible sequences. Recent developments in steering protein generative models (e.g diffusion models, language models) offer a promising approach. However, by and large, past studies have optimized surrogate rewards and/or utilized large amounts of labeled data for steering, making it unclear how well existing methods perform and compare to each other in real-world optimization campaigns where fitness is measured by low-throughput wet-lab assays. In this study, we explore fitness optimization using small amounts (hundreds) of labeled sequence-fitness pairs and comprehensively evaluate strategies such as classifier guidance and posterior sampling for guiding generation from different discrete diffusion models of protein sequences. We also demonstrate how guidance can be integrated into adaptive sequence selection akin to Thompson sampling in Bayesian optimization, showing that plug-and-play guidance strategies offer advantages compared to alternatives such as reinforcement learning with protein language models.
+abstract: We present a novel approach to help decision-makers efficiently identify preferred solutions from the Pareto set of a multi-objective optimization problem. Our method uses a Bayesian model to estimate the decision-maker's utility function based on pairwise comparisons. Aided by this model, a principled elicitation strategy selects queries interactively to balance exploration and exploitation, guiding the discovery of high-utility solutions. The approach is flexible: it can be used interactively or a posteriori after estimating the Pareto front through standard multi-objective optimization techniques. Additionally, at the end of the elicitation phase, it generates a reduced menu of high-quality solutions, simplifying the decision-making process. Through experiments on test problems with up to nine objectives, our method demonstrates superior performance in finding high-utility solutions with a small number of queries. We also provide an open-source implementation of our method to support its adoption by the broader community.
 featured: false
-publication: '*Preprint*'
-url_pdf: https://arxiv.org/pdf/2505.15093
+publication: '*Journal of Multi-Criteria Decision Analysis*'
+url_pdf: https://arxiv.org/pdf/2507.16999
 ---
 
