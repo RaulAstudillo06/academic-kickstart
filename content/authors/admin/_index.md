@@ -14,8 +14,8 @@ superuser: true
 
 # Organizations/Affiliations
 organizations:
-- name: Caltech
-  url: "https://www.caltech.edu/"
+- name: MBZUAI
+  url: "https://mbzuai.ac.ae/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:rastudil@caltech.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:raul.astudillo@mbzuai.ac.ae'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=r1Jkj7MAAAAJ&hl=en
@@ -58,7 +58,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "rastudil@caltech.edu"
+email: "raul.astudillo@mbzuai.ac.ae"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -69,9 +69,9 @@ user_groups:
 
 <div style="text-align: justify">
 <p> </p>
-<p> I am a Postdoctoral Scholar in the <a href="https://www.cms.caltech.edu/">Department of Computing and Mathematical Sciences</a> at <a href="https://www.caltech.edu/">Caltech</a>, hosted by Professor <a href="http://www.yisongyue.com/index.php">Yisong Yue</a>. I earned my Ph.D. in Operations Research and Information Engineering from <a href="https://www.cornell.edu/">Cornell University</a>, where I worked with Professor <a href="https://people.orie.cornell.edu/pfrazier/">Peter Frazier</a>. During my Ph.D., I spent six months as a Visiting Researcher at <a href="https://research.facebook.com/">Meta</a>.  Before joining Cornell, I completed the undergraduate program in Mathematics offered jointly by the <a href="http://www.ugto.mx/en/">University of Guanajuato</a> and the <a href="https://www.cimat.mx/en">Center for Research in Mathematics</a>. </p>
+<p> I am an <b>Assistant Professor</b> at the <a href="https://mbzuai.ac.ae/research-department/machine-learning-department/">Department of Machine Learning</a> at <a href="https://mbzuai.ac.ae/">MBZUAI</a> in Abu Dhabi. My research focuses on <b>adaptive learning and decision-making in complex, data-intensive environments</b>, with applications spanning personalized healthcare, engineering design, and scientific discovery. </p>
 
-<p> My research focuses on adaptive learning and decision-making in complex, data-intensive environments, with applications spanning personalized healthcare, engineering design, and scientific discovery. In recognition of my research contributions, I was named a Rising Star in Management Science and Engineering by Stanford University and a Rising Star in Data Science by the University of Chicago and UC San Diego. </p>
+<p> Before joining MBZUAI, I was a <b>Postdoctoral Scholar</b> in the <a href="https://www.cms.caltech.edu/">Department of Computing and Mathematical Sciences</a> at <a href="https://www.caltech.edu/">Caltech</a>, hosted by Professor <a href="http://www.yisongyue.com/index.php">Yisong Yue</a>. I earned my <b>Ph.D. in Operations Research and Information Engineering</b> from <a href="https://www.cornell.edu/">Cornell University</a>, where I worked with Professor <a href="https://people.orie.cornell.edu/pfrazier/">Peter Frazier</a>. During my Ph.D., I also spent six months as a <b>Visiting Researcher</b> at <a href="https://research.facebook.com/">Meta</a>. Before that, I completed the <b>undergraduate program in Mathematics</b> offered jointly by the <a href="http://www.ugto.mx/en/">University of Guanajuato</a> and the <a href="https://www.cimat.mx/en">Center for Research in Mathematics (CIMAT)</a>. </p>
 
-<p><b> I will be joining the <a href="https://mbzuai.ac.ae/research-department/machine-learning-department/">Department of Machine Learning</a> at <a href="https://mbzuai.ac.ae/">MBZUAI</a> as a tenure-track Assistant Professor in August 2025. I am currently recruiting motivated students and postdoctoral researchers. If you are interested in working with me, please reach out via email with your CV. </b></p>
+<p><b> I am currently recruiting motivated students</b> interested in adaptive experimentation, Bayesian optimization, AI-driven decision-making, and AI-driven scientific discovery. If you are interested in working with me, please reach out via email with your CV. </p>
 </div>
