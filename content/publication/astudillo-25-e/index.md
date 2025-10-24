@@ -1,7 +1,7 @@
 ---
 title: 'Steering generative models with experimental data for protein fitness optimization'
-date: '2025-05-21'
-publishDate: '2025-05-21T22:34:17.512039Z'
+date: '2025-12-04'
+publishDate: '2025-12-04T22:34:17.512039Z'
 authors:
 - Jason Yang
 - Wenda Chu
