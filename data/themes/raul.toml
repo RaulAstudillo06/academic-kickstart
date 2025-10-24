@@ -8,7 +8,7 @@ light = true
 primary = "#10069F"
 
 # Menu
-menu_primary = "#76777B" # Material 500
+menu_primary = "#10069F" # Material 500
 menu_text = "#fff"
 menu_text_active = "#4EC3E0" # Material Complemantary 500
 menu_title = "#fff"
